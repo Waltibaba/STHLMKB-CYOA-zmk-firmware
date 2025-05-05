@@ -1,0 +1,9 @@
+file_format: "1"
+id: sthlmkb_cyoa
+name: sthlmkb Choose Your Own Adventure
+type: shield
+url: https://sthlmkb.com/shop/cyoa-ortho/
+requires: [pro_micro]
+features:
+  - keys
+  - studio
